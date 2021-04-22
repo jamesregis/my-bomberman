@@ -1,0 +1,6 @@
+
+action
+mise-à-jour du tableau g_map[][]
+envoie des données 
+
+actualisaition de l'affichage
